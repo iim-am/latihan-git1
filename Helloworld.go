@@ -2,5 +2,5 @@ package main
 
 import "fmt"
 func main(){
-	fm.Prinln("hello word")
+	fm.Prinln("iim belajar go")
 }
